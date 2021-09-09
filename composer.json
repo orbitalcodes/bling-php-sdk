@@ -1,5 +1,5 @@
 {
-	"name": "metastore/bling-php-sdk",
+	"name": "lojametastore/bling-php-sdk",
 	"description": "Bling PHP SDK",
 	"keywords": ["bling", "api", "sdk"],
 	"license": "MIT",
