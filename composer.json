@@ -1,5 +1,5 @@
 {
-	"name": "rits-tecnologia/bling-php-sdk",
+	"name": "orbitalcodes/bling-php-sdk",
 	"description": "Bling PHP SDK",
 	"keywords": ["bling", "api", "sdk"],
 	"license": "MIT",
@@ -7,6 +7,10 @@
 		{
 			"name": "Juciano Araujo",
 			"email": "jucianoaraujo@rits.com.br"
+		},
+        {
+			"name": "Kallef",
+			"email": "kallef.alexandre@lojametastore.com.br"
 		}
 	],
 	"autoload": {
